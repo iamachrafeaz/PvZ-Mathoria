@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6830c2511df86604c820846170ee7f10, type: 3}
+  m_Name: Bucket
+  m_EditorClassIdentifier: 
+  health: 8
+  speed: 0.019
+  damage: 3
+  range: 0.5
+  eatCooldown: 1
+  sprite: {fileID: 7151955249762826636, guid: 059c61b20e1a67047a6ed3f534971715, type: 3}
+  deathSprite: {fileID: 386325449022280302, guid: de232f09b336f8a4da32c241674be355, type: 3}
+  walkAnimationName: Zombie3Walk
