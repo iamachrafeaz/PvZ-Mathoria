@@ -2,6 +2,8 @@
 
 An educational tower defense game that combines the beloved Plants vs Zombies gameplay with mathematical learning objectives. Defend your garden while solving math problems and strengthening your numerical skills!
 
+![Game Preview](Assets/Resources/MenuBG.png)
+
 ## 🎮 About the Game
 
 PvZ-Mathoria is an innovative educational game that merges the strategic tower defense mechanics of Plants vs Zombies with interactive mathematics challenges. Players must solve mathematical problems to unlock plants, upgrade defenses, and progress through increasingly challenging levels.
