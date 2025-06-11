@@ -15,12 +15,12 @@ PvZ-Mathoria is an innovative educational game that merges the strategic tower d
 - **Achievement System**: Track progress and celebrate mathematical milestones
 - **Kid-Friendly Interface**: Colorful, engaging visuals designed for young learners
 
-## 🎯 Learning Objectives
+### **Key Arithmetic Concepts Considered in Mini-Games**
 
-- **Arithmetic Skills**: 
-- **Problem Solving**: Critical thinking through strategic gameplay
-- **Quick Mental Math**: Timed challenges to improve calculation speed
-- **Mathematical Confidence**: Building positive associations with math learning
+#### **Subtraction**
+- Borrowing when minuend digits are smaller.
+- Retaining borrowed values for continuity.
+- Step-by-step column-based solving.
 
 ## 🚀 Getting Started
 
@@ -58,45 +58,17 @@ PvZ-Mathoria is an innovative educational game that merges the strategic tower d
 
 ## 🎮 How to Play
 
-1. **Start a Level**: Choose your difficulty and math topic focus
-2. **Solve Math Problems**: Answer correctly to earn sun points
-3. **Plant Your Defense**: Use sun points to place plants strategically
-4. **Defend Your Garden**: Prevent zombies from reaching your house
-5. **Progress**: Complete levels to unlock new plants and challenges
-
-### Controls
-
-- **Mouse**: Click to interact with UI elements and place plants
-- **Keyboard**: Type answers to mathematical problems
-- **Space**: Pause/unpause the game
-- **ESC**: Return to main menu
-
-## 🌱 Plant Types
-
-Each plant requires solving specific types of math problems to unlock:
-
-- **Peashooter**: Basic arithmetic (addition/subtraction)
-- **Sunflower**: Number patterns and sequences
-- **Cherry Bomb**: Multiplication tables
-- **Wall-nut**: Geometry and shapes
-- **Chomper**: Advanced problem solving
-
-## 🧟 Zombie Challenges
-
-Different zombies present unique mathematical obstacles:
-
-- **Basic Zombie**: Simple arithmetic problems
-- **Conehead Zombie**: Multi-step problems
-- **Buckethead Zombie**: Complex equations
-- **Football Zombie**: Time-pressured challenges
+1. **Login**: Scan your QR Code from the web plateform
+2. **Launch**: Start the game
+3. **Solve Operation**: Solve the given problem
+4. **Plant Your Defense**: Use sun points to place plants strategically
+5. **Defend Your Garden**: Prevent zombies from reaching your house
+6. **Progress**: Complete levels to unlock new plants and challenges
 
 ## 🏆 Scoring System
 
-- **Correct Answers**: +10 points per correct math problem
-- **Speed Bonus**: Additional points for quick responses
-- **Level Completion**: Bonus points for completing levels
-- **Streak Multiplier**: Consecutive correct answers increase score
-
+- **Correct Answers**: +50 points per correct math problem
+  
 ## 🛠️ Development
 
 ### Project Structure
@@ -116,15 +88,6 @@ PvZ-Mathoria/
 └── README.md
 ```
 
-### Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ### Development Setup
 
@@ -142,42 +105,17 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
    ```
 7. Build and test on Android device
 
-## 📚 Educational Standards
-
-This game aligns with common core mathematics standards for:
-- **Grades K-2**: Basic number operations and counting
-- **Grades 3-5**: Multiplication, division, and fractions
-- **Grades 6-8**: Algebra, geometry, and problem solving
-
 ## 🎨 Credits
 
 - **Original PvZ Concept**: Inspired by PopCap Games' Plants vs Zombies
 - **Educational Framework**: Developed with input from mathematics educators
-- **Graphics**: [Credit your artists/sources]
-- **Audio**: [Credit your sound designers/sources]
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Acknowledgments
 
 - Plants vs Zombies by PopCap Games for the original gameplay inspiration
 - Educational consultants who helped design the mathematical components
-- Beta testers and the educational gaming community
-- Contributors and supporters of this open-source project
-
-## 📞 Support
-
-- **Issues**: Report bugs and feature requests via [GitHub Issues](https://github.com/iamachrafeaz/PvZ-Mathoria/issues)
-- **Discussions**: Join our community discussions for gameplay tips and educational insights
-- **Contact**: Reach out to the development team for collaboration opportunities
-
-## 🔄 Version History
-
-- **v1.0.0**: Initial release with basic math operations and core gameplay
-- **v0.9.0**: Beta version with user testing feedback incorporated
-- **v0.5.0**: Alpha version with core mechanics implemented
+- Contributors and supporters of this project
 
 ---
 
